@@ -1,0 +1,2 @@
+isis/src/**/tsts/** filter=lfs diff=lfs merge=lfs -text
+isis/src/**/tsts/**/Makefile -filter=lfs -diff=lfs -merge=lfs -text
